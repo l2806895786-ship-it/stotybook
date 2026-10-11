@@ -1,0 +1,11 @@
+{
+  "name": "DragonTales: The Little Dragon's Lost Fire",
+  "description": "Interactive English storybook app for kids that reads stories aloud with Gemini TTS, generates custom page illustrations with Gemini Pro Image, and features an AI Dragon chat buddy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
